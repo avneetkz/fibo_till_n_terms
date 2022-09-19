@@ -4,7 +4,7 @@ It will give a series of Fibonacci numbers till n number of terms which is to be
 ## What is Fibonacci series
 A series of numbers in which each number(i.e. fibonacci number) is the sum of two preceding numbers.
 
-A simple rule will follow up here which is 
+A simple rule will follow up here which is:
 current term = preceding term + second preceding term
 
 This sequence can go till infinity number of terms:
